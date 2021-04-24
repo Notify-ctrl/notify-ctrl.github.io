@@ -2,4 +2,4 @@
 
 ## 目录
 
-这里还什么都没有哦
+[TypeScript](./ts/index.md)
