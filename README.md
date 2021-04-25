@@ -1,5 +1,8 @@
 # Notify的个人博客
 
+> 主页
+
 ## 目录
 
-[TypeScript](./ts/index.md)
+- [Linux](./linux/index.md)
+- [TypeScript](./ts/index.md)
