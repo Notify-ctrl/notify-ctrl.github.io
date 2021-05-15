@@ -6,3 +6,4 @@
 
 - [Linux](./linux/index.md)
 - [TypeScript](./ts/index.md)
+- [Nes](./nes/index.md)
