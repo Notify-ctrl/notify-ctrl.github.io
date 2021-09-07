@@ -4,6 +4,4 @@
 
 ## 目录
 
-- [Linux](./linux/index.md)
-- [TypeScript](./ts/index.md)
-- [Nes](./nes/index.md)
+- [Bash](./bash/index.md)
